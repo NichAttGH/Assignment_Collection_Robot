@@ -13,7 +13,7 @@ This project examines the efficiency of a Task Motion Planning (TMP) model for c
 - [PDDL](https://planning.wiki/guide/whatis/pddl) (Planning Domain Definition Language): A standard language for representing planning problems, used to model the coffee shop environment, the robots, and their actions.
 - [popf-tif planner](https://github.com/popftif/popf-tif): a planner that links C++ code with PDDL.
 - [A* algorithm](https://github.com/NichAttGH/Assignment_Collection_Robot/blob/main/AStar-Algorithm.pdf): an algorithm used to find the shortest path between two nodes.
-- External C++ solver: used to execute the A* algorithm.
+- External C++ solver used to execute the A* algorithm.
 
 ## Results
 - The project successfully implemented a TMP model to control the robot's movements.
