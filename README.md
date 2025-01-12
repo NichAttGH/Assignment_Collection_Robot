@@ -1,7 +1,7 @@
 # Assignment Collection Robot
 
 ## Description
-This project examines the efficiency of a Task Motion Planning (TMP) model for controlling the movements of a robot within a 2D environment to collect two assignment reports and deliver them to a submission desk. The robot uses a roadmap with waypoints and an A* algorithm to calculate the optimal path. [Report](httml) for more details.
+This project examines the efficiency of a Task Motion Planning (TMP) model for controlling the movements of a robot within a 2D environment to collect two assignment reports and deliver them to a submission desk. The robot uses a roadmap with waypoints and an A* algorithm to calculate the optimal path. [Report](https://github.com/NichAttGH/Assignment_Collection_Robot/blob/main/Report.pdf) for more details.
 
 ## Tasks
 - Environment Definition: a 6m x 6m 2D environment is defined, with four regions representing student groups, 24 randomly generated waypoints, the robot's initial position, and the location of the submission desk.
@@ -11,8 +11,8 @@ This project examines the efficiency of a Task Motion Planning (TMP) model for c
 
 ## Tools used
 - [PDDL](https://planning.wiki/guide/whatis/pddl) (Planning Domain Definition Language): A standard language for representing planning problems, used to model the coffee shop environment, the robots, and their actions.
-- popf-tif planner: a planner that links C++ code with PDDL.
-- A* algorithm: an algorithm used to find the shortest path between two nodes.
+- [popf-tif planner](https://github.com/popftif/popf-tif): a planner that links C++ code with PDDL.
+- [A* algorithm](https://github.com/NichAttGH/Assignment_Collection_Robot/blob/main/AStar-Algorithm.pdf): an algorithm used to find the shortest path between two nodes.
 - External C++ solver: used to execute the A* algorithm.
 
 ## Results
