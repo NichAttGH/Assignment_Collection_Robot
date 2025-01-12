@@ -1,0 +1,4 @@
+/home/nick/AIR2/Assignment_Giacomo/Artificial_intelligence_2---Assignment2/visits_module/build/CMakeFiles/rebuild_cache.dir
+/home/nick/AIR2/Assignment_Giacomo/Artificial_intelligence_2---Assignment2/visits_module/build/CMakeFiles/edit_cache.dir
+/home/nick/AIR2/Assignment_Giacomo/Artificial_intelligence_2---Assignment2/visits_module/build/CMakeFiles/VisitMain.dir
+/home/nick/AIR2/Assignment_Giacomo/Artificial_intelligence_2---Assignment2/visits_module/build/CMakeFiles/Visits.dir
