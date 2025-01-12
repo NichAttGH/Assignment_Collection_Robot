@@ -1,4 +1,5 @@
 # Assignment Collection Robot
+This is a project done for the undergraduate course “Artificial Intelligence for Robotics” at the University of Genova.
 
 ## Description
 This project examines the efficiency of a Task Motion Planning (TMP) model for controlling the movements of a robot within a 2D environment to collect two assignment reports and deliver them to a submission desk. The robot uses a roadmap with waypoints and an A* algorithm to calculate the optimal path. [Report](https://github.com/NichAttGH/Assignment_Collection_Robot/blob/main/Report.pdf) for more details.
